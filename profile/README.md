@@ -1,1 +1,1 @@
-# Team-Maksym organization
+# Starlight-demo organisation
